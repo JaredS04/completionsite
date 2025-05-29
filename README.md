@@ -1,2 +1,2 @@
 # completionsite
-Just a site to keep track of games that I have completed
+Project Website To Keep Track Of Games That I have Completed & Want To Complete.
