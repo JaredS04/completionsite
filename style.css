@@ -1,7 +1,20 @@
-body {
-    background-color: #0f0f0f;
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
+.home
+.killzone
+{
+    font-family: Arial, Helvetica, sans-serif
     font-style: normal;
     font-size: large;
+}
+
+
+/* index script body*/
+.home
+{
+    background-image: linear-gradient(to right, white,grey);
+}
+
+.killzone 
+{
+    background-color: #0f0f0f;
+    color: white;
 }
